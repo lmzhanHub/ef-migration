@@ -1,0 +1,4 @@
+packages/
+.vs/
+Ef.Project/obj/Debug/
+Ef.Project/bin/
